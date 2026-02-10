@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=MizMelly&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20&%20Mobile%20Apps&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Joy Kuroko&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20&%20Mobile%20Apps&descAlignY=55" />
 </p>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 ---
 
 ## 👋 About Me
-I’m Joy Kuroko **Full-Stack Developer** passionate about building **scalable web and mobile applications** with clean UI, solid backend logic, and real-world impact.
+I’m a **Full-Stack Developer** passionate about building **scalable web and mobile applications** with clean UI, solid backend logic, and real-world impact.
 
 - 💻 Frontend: React, React Native, Flutter  
 - ⚙️ Backend: Node.js, Express  
