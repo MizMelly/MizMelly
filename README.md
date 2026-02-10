@@ -6,6 +6,7 @@
 <h3 align="center">
   🚀 Full-Stack Developer • React • Node.js • Flutter • PostgreSQL
 </h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=FF5555&center=true&vCenter=true&width=750&lines=👨‍💻+Full-Stack+Developer;⚛️+React+&+Node.js;📱+Flutter+Mobile+Apps;🐘+PostgreSQL+Expert;🚀+Backend+&+APIs;🌱+Always+Learning)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MizMelly&label=Profile%20Views&color=blue&style=flat" />
