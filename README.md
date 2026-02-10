@@ -1,11 +1,9 @@
 <!-- TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JoyKuroko&fontSize=60&fontAlignY=35&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=55" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JoyKuroko&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Web%20&%20Mobile%20Apps&descAlignY=55" /> </p>
 
 
 <h3 align="center">
-  🚀 Full-Stack Developer • React • React-Native • Node.js • Flutter • PostgreSQL
+  🚀 Full-Stack & Cross-Platform Mobile Developer
 </h3>
 
 <p align="center">
