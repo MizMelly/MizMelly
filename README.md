@@ -29,13 +29,13 @@ I’m a **Full-Stack Developer** passionate about building **scalable web and mo
 - 🎯 Focus: Performance, clean code & user experience  
 
 ---
-🧾 Complaint Management System
-🚀 A full-stack complaint management system for users and admins
-🌐 Built with React (frontend) and Node.js + Express (backend)
-🗄️ Uses PostgreSQL for reliable data storage
-🔐 Supports JWT authentication + guest complaint submission
-🛠️ Admin dashboard for managing and updating complaint statuses
-📎 Supports file uploads (proof of complaint/payment evidence)
+- 🧾 Complaint Management System
+- 🚀 A full-stack complaint management system for users and admins
+- 🌐 Built with React (frontend) and Node.js + Express (backend)
+- 🗄️ Uses PostgreSQL for reliable data storage
+- 🔐 Supports JWT authentication + guest complaint submission
+- 🛠️ Admin dashboard for managing and updating complaint statuses
+- 📎 Supports file uploads (proof of complaint/payment evidence)
 
 ---
 ## 🔭 Currently Working On
