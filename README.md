@@ -25,16 +25,25 @@ I’m a **Full-Stack Developer** passionate about building **scalable web and mo
 
 - 💻 Frontend: React, React Native, Flutter  
 - ⚙️ Backend: Node.js, Express  
-- 🗄️ Databases: PostgreSQL, MongoDB, MySQL  
+- 🗄️ Databases: PostgreSQL, MySQL  
 - 🎯 Focus: Performance, clean code & user experience  
 
 ---
+🧾 Complaint Management System
+🚀 A full-stack complaint management system for users and admins
+🌐 Built with React (frontend) and Node.js + Express (backend)
+🗄️ Uses PostgreSQL for reliable data storage
+🔐 Supports JWT authentication + guest complaint submission
+🛠️ Admin dashboard for managing and updating complaint statuses
+📎 Supports file uploads (proof of complaint/payment evidence)
 
+---
 ## 🔭 Currently Working On
-- 🚀 A **full-stack sales & distribution system**
-- 📱 Mobile apps with **Flutter**
-- 🌐 REST APIs using **Node.js + PostgreSQL**
-- 🔐 Authentication & role-based access systems
+- 🚀 Improving the admin dashboard UI & responsiveness
+- 🧠 Adding search & filtering for complaints
+- 📊 Building analytics for complaint tracking
+- 🔔 Implementing email notifications for status updates
+- ⚡ Optimizing backend queries with PostgreSQL indexing & pagination
 
 ---
 
